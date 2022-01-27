@@ -5,6 +5,7 @@
 - Aya Galal, Ph.D. Student
 - [Ahmed El Hosseiny](ahmedelhosseiny.md), M.Sc. Student
 - [Tasnim Ghanim](tasnimghanim.md), M.Sc. Student
+- [Sherine Saber](sherinesaber), M.Sc. Student
 
 
 ## Former Members
